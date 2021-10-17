@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Tesla Project" />
         <p className="description">
-          In progress <code>loading...</code>
+          In progress <code>...</code>
         </p>
       </main>
 
