@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Tesla Project" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          In progress <code>loading...</code>
         </p>
       </main>
 
