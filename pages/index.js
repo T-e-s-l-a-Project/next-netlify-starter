@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Tesla Project</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Tesla Project" />
         <p className="description">
-          In progress <code>...</code>
+          just do <code>Tesla</code>
         </p>
       </main>
 
